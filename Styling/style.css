@@ -36,8 +36,8 @@ h1 {
     outline: none;
     border: none;
     height: 50px;
-    border-radius: 25px;
-    width: 350px;
+	border-radius: 25px;
+	width: 350px;
     margin: 0.25rem;
     transition: .5s;
     font-size: 1.15rem;
@@ -88,7 +88,7 @@ h1 {
 	background: none;
 	outline: none;
 	border: none;
-	color: #00ECFF;
+	color: lime;
 	font-size: 1.4rem;
 	font-family: 'Hind', sans-serif;
 	margin: 0 0.5rem;
